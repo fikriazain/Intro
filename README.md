@@ -15,7 +15,7 @@
   </div>
 </div>
 
-<p align="center">My name is Zain. I'm a Computer Science student at the University of Indonesia and interested in all fields of Artificial Intelligence. At my college break, usually i'm doing my side projects and do some interns/freelance. 
+<p align="center">My name is Zain. I'm a Computer Science student at the University of Indonesia and interested in all fields of Artificial Intelligence, especially in computer vision and NLP. At my college break, usually i'm doing my side projects and do some interns/freelance. 
 </p>
 
 <h3 align="center"><strong> :desktop_computer: All Languages, Technologies, and Tools I Learn and Use :desktop_computer:</strong></h3>
